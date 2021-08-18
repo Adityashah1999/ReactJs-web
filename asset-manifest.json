@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/ReactJs-web/static/js/main.da5449f7.chunk.js",
+    "main.js.map": "/ReactJs-web/static/js/main.da5449f7.chunk.js.map",
+    "runtime-main.js": "/ReactJs-web/static/js/runtime-main.8d2eb815.js",
+    "runtime-main.js.map": "/ReactJs-web/static/js/runtime-main.8d2eb815.js.map",
+    "static/js/2.42589069.chunk.js": "/ReactJs-web/static/js/2.42589069.chunk.js",
+    "static/js/2.42589069.chunk.js.map": "/ReactJs-web/static/js/2.42589069.chunk.js.map",
+    "index.html": "/ReactJs-web/index.html",
+    "static/js/2.42589069.chunk.js.LICENSE.txt": "/ReactJs-web/static/js/2.42589069.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/ReactJs-web/static/media/profile.8a701d40.jpg",
+    "static/media/svg-1.svg": "/ReactJs-web/static/media/svg-1.c9c88a21.svg",
+    "static/media/svg-2.svg": "/ReactJs-web/static/media/svg-2.882a2cd5.svg",
+    "static/media/svg-3.svg": "/ReactJs-web/static/media/svg-3.335c6aa8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d2eb815.js",
+    "static/js/2.42589069.chunk.js",
+    "static/js/main.da5449f7.chunk.js"
+  ]
+}
