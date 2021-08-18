@@ -1,6 +1,6 @@
 ## React App for Marketing Agency
 
-This project was created using ReactJs. <br/> [(Marketing Website)](https://adityashah1999.github.io/).
+This project was created using ReactJs. <br/> [(Marketing Website)](https://adityashah1999.github.io/ReactJs-web/).
 
 ### *Final demo of app*
 
